@@ -1,0 +1,93 @@
+\begin{table}[t]
+
+\caption{The 22 reference points used in the point to point comparisons and agreement map.}\label{t1}
+\begin{center}
+\begin{tabularx}{1\textwidth}{ >{\setlength\hsize{2.35\hsize}\centering}X >{\setlength\hsize{.15\hsize}\centering}X >{\setlength\hsize{1.85\hsize}\centering}X >{\setlength\hsize{.8\hsize}\centering}X >{\setlength\hsize{.8\hsize}\centering}X >{\setlength\hsize{1.1\hsize}\centering}X >{\setlength\hsize{.4\hsize}\centering}X >{\setlength\hsize{.4\hsize}\centering}X }
+Region & \# & Nearest City & Long & Lat & JA Precip (mm day$^{-1}$) & St. Dev. & STN \tabularnewline
+\hline
+\multirow{5}{*}{\parbox[t]{3.6cm}{Himalayan Foothills\\ + Bangladesh}} & 1 & Chittagong & 91.9\textdegree E & 22.4\textdegree N & 16.55 & 6.58 & .88 \tabularnewline
+& 2 & Kathmandu & 85.4\textdegree E & 27.6\textdegree N & 12.34 & 3.33 & 5.09 \tabularnewline
+& 3 & Patna & 85.1\textdegree E & 25.6\textdegree N & 7.78 & 2.92 & 2.42 \tabularnewline
+& 4 & Eastern Assam & 95.1\textdegree E & 27.4\textdegree N & 12.62 & 3.27 & 1.04 \tabularnewline
+& 5 & Nyingchi & 94.4\textdegree E & 29.6\textdegree N & 3.71 & 1.47 & 1.28 \tabularnewline
+\hline
+\multirow{4}{*}{``Monsoon Zone''} & 6 & Bhubaneswar & 85.9\textdegree E & 20.4\textdegree N & 10.06 & 3.04 & 1.98 \tabularnewline
+& 7 & Durg & 81.4\textdegree E & 21.1\textdegree N & 9.26 & 2.98 & 1.83 \tabularnewline
+& 8 & Ahmedabad & 72.6\textdegree E & 23.1\textdegree N & 7.11 & 3.85 & 1.74 \tabularnewline
+& 9 & Karachi & 67.1\textdegree E & 24.9\textdegree N & 1.68 & 2.01 & .86 \tabularnewline
+\hline
+\multirow{2}{*}{South India} & 10 & Bangalore & 77.6\textdegree E & 12.9\textdegree N & 3.04 & 1.78 & 1.89 \tabularnewline
+& 11 & Kumbakonam & 79.4\textdegree E & 10.9\textdegree N & 2.29 & 1.62 & 2.94 \tabularnewline
+\hline
+\multirow{3}{*}{\parbox[t]{3.6cm}{South China}} & 12 & Namh Dinh & 106.1\textdegree E & 20.4\textdegree N & 7.64 & 3.80 & 1.56 \tabularnewline
+& 13 & Shenzhen & 114.1\textdegree E & 22.6\textdegree N & 9.78 & 4.41 & 1.01 \tabularnewline
+& 14 & Taipei & 121.6\textdegree E & 25.1\textdegree N & 6.59 & 4.62 & 3.36 \tabularnewline
+\hline
+\multirow{6}{*}{\parbox[t]{3.6cm}{Yangtze Corridor\\+ Korea + Japan}} & 15 & Chongqing & 106.4\textdegree E & 29.6\textdegree N & 4.41 & 2.15 & 1.49 \tabularnewline
+& 16 & Enshi & 109.4\textdegree E & 30.4\textdegree N & 5.80 & 3.09 & 1.32 \tabularnewline
+& 17 & Anqing & 117.1\textdegree E & 30.6\textdegree N & 4.58 & 3.03 & 1.42 \tabularnewline
+& 18 & Changzhou & 119.9\textdegree E & 31.9\textdegree N & 4.39 & 2.37 & 1.14 \tabularnewline
+& 19 & Jinju (Korea) & 128.1\textdegree E & 35.1\textdegree N & 7.66 & 4.10 & 1.67 \tabularnewline
+& 20 & Tokyo & 139.4\textdegree E & 35.9\textdegree N & 5.35 & 2.86 & 3.33 \tabularnewline
+\hline
+\multirow{2}{*}{North China} & 21 & Baotou & 109.9\textdegree E & 40.6\textdegree N & 2.47 & 1.26 & 1.08 \tabularnewline
+& 22 & Chengde & 117.9\textdegree E & 40.9\textdegree N & 4.50 & 1.99 & 1.98 \tabularnewline
+
+\end{tabularx}
+
+\end{center}
+
+\end{table}
+\efloatseparator
+ 
+\begin{table}[t]
+
+\caption{Yearly time series of All-Nepal Monsoon Rainfall, calculated as an area average over Nepal. Station quality improves dramatically starting in 1961 such that use of the 1951-1960 component is discouraged. 1961-2007 values are used to calculate monthly average and standard deviation. July-August total mean rainfall over this period is 10.63 mm day$^{-1}$ for the regional average with a standard deviation of 1.07 mm day$^{-1}$. The inaccuracy of the index from 1951 to 1960 is reflected by the relatively high standard deviation of those points.}\label{t2}
+\begin{center}
+\begin{tabularx}{.9\textwidth}{ >{\setlength\hsize{.1\hsize}\centering}X >{\setlength\hsize{.1\hsize}\centering}X >{\setlength\hsize{.1\hsize}\centering}X  >{\setlength\hsize{.1\hsize}\centering}X >{\setlength\hsize{.1\hsize}\centering}X >{\setlength\hsize{.1\hsize}\centering}X >{\setlength\hsize{.1\hsize}\centering}X >{\setlength\hsize{.1\hsize}\centering}X >{\setlength\hsize{.1\hsize}\centering}X}
+Year & Precip & Index & Year & Precip & Index & Year & Precip & Index \tabularnewline
+\hline
+\textit{1951} & \textit{7.87} & \textit{-2.59} & 1970 & 10.63 & 0.00 & 1989 & 11.05 & 0.39 \tabularnewline
+\textit{1952} & \textit{8.84} & \textit{-1.68} & 1971 & 9.29 & -1.26 & 1990 & 11.35 & 0.68 \tabularnewline
+\textit{1953} & \textit{11.94} & \textit{1.23} & 1972 & 8.99 & -1.54 & 1991 & 9.56 & -1.00 \tabularnewline
+\textit{1954} & \textit{12.09} & \textit{1.37} & 1973 & 8.57 & -1.92 & 1992 & 9.22 & -1.32 \tabularnewline
+\textit{1955} & \textit{13.27} & \textit{2.48} & 1974 & 11.86 & 1.16 & 1993 & 10.32 & -0.29 \tabularnewline
+\textit{1956} & \textit{8.54} & \textit{-1.95} & 1975 & 10.80 & 0.16 & 1994 & 9.80 & -0.77 \tabularnewline
+\textit{1957} & \textit{10.63} & \textit{0.00} & 1976 & 9.81 & -0.76 & 1995 & 10.83 & 0.19 \tabularnewline
+\textit{1958} & \textit{11.68} & \textit{0.98} & 1977 & 10.23 & -0.38 & 1996 & 11.82 & 1.11 \tabularnewline
+\textit{1959} & \textit{7.63} & \textit{-2.81} & 1978 & 10.73 & 0.09 & 1997 & 10.07 & -0.52 \tabularnewline
+\textit{1960} & \textit{9.80} & \textit{-0.78} & 1979 & 10.06 & -0.53 & 1998 & 13.67 & 2.85 \tabularnewline
+1961 & 11.03 & 0.38  & 1980 & 10.96 & 0.31 & 1999 & 11.36 & 0.69 \tabularnewline
+1962 & 11.62 & 0.93  & 1981 & 11.25 & 0.58 & 2000 & 11.25 & 0.58 \tabularnewline
+1963 & 11.29 & 0.62  & 1982 & 9.46 & -1.09 & 2001 & 10.53 & -0.09 \tabularnewline
+1964 & 11.14 & 0.48  & 1983 & 10.09 & -0.50 & 2002 & 10.80 & 0.16 \tabularnewline
+1965 & 10.25 & -0.35  & 1984 & 10.89 & 0.24 & 2003 & 11.19 & 0.53 \tabularnewline
+1966 & 10.83 & 0.19  & 1985 & 11.55 & 0.87 & 2004 & 10.07 & -0.52 \tabularnewline
+1967 & 10.06 & -0.53  & 1986 & 9.63 & -0.93 & 2005 & 10.16 & -0.43 \tabularnewline
+1968 & 9.75 & -0.82  & 1987 & 12.11 & 1.39 & 2006 & 8.47 & -2.02 \tabularnewline
+1969 & 9.96 & -0.63  & 1988 & 13.45 & 2.65 & 2007 & 11.68 & 0.98 \tabularnewline
+
+\end{tabularx}
+\end{center}
+
+\end{table}
+\efloatseparator
+ 
+\begin{table}[t]
+
+\caption{July-August correlation coefficients $r$ from 1951 to 2007 of All-Nepal rainfall, All-India rainfall (calculated from APHRODITE),``Monsoon Zone'' rainfall and Yangtze rainfall (mean rainfall over the region bounded by (104.5\textdegree E 29\textdegree N), (108\textdegree E 32\textdegree N), (120\textdegree E 34\textdegree N) and (122\textdegree E 31.5\textdegree N)), as well as Oceanic Ni\~no Index (ONI) in preceding December, or equivalently the N(0)-D(0)-J(1) mean of Ni\~no 3.4 (SST anomaly averaged over the region 5\textdegree S-5\textdegree N and 120\textdegree W-170\textdegree W). Each time series is compared with All-Asia temporal EOF 1, India temporal EOF 1, China temporal EOFs 1 \& 2 and official All-India Monsoon Rainfall from the Indian Meteorological Department (IMD). Although All-Nepal Monsoon Rainfall is reliable only for 1961-2007 due to station coverage limitations and the Monsoon Zone time series likewise degrades after 1970, all 57 years are used for consistency, and results are not substantially affected. July and August are treated as separate time points except for correlation with ONI, which uses yearly values. 95\% and 99\% confidence levels are indicated by bold font and asterisks respectively.}\label{t3}
+\begin{center}
+\begin{tabularx}{1\textwidth}{>{\setlength\hsize{.16\hsize}\centering\arraybackslash}X >{\setlength\hsize{.09\hsize}\centering\arraybackslash}X >{\setlength\hsize{.09\hsize}\centering\arraybackslash}X >{\setlength\hsize{.08\hsize}\centering\arraybackslash}X >{\setlength\hsize{.07\hsize}\centering\arraybackslash}X >{\setlength\hsize{.14\hsize}\centering\arraybackslash}X >{\setlength\hsize{.10\hsize}\centering\arraybackslash}X >{\setlength\hsize{.17\hsize}\centering\arraybackslash}X  >{\setlength\hsize{.10\hsize}\centering\arraybackslash}X}
+Index & All-Nepal & All-India & MZ & YZ & EOF 1 (All-Asia) & EOF 1 (India) & EOF 1/2 (China) & All-India (IMD) \tabularnewline
+\hline
+All-Nepal & \textbf{1*} & -.07 & \textbf{-.31*} & \textbf{.28*} & \textbf{.59*} &  \textbf{.70*} &  \textbf{.34*}/.10 & .02 \tabularnewline
+All-India & -.07 & \textbf{1*} & \textbf{.82*} & -.08 & \textbf{-.44*} &  \textbf{-.54*} &  -.04/ \textbf{-.28*} &  \textbf{.95*} \tabularnewline
+Monsoon Zone &  \textbf{-.31*} &  \textbf{.82*} & \textbf{1*} & \textbf{-.24} &\textbf{-.77*} &  \textbf{-.88*} & \textbf{.30*}/\textbf{-.46*} &  \textbf{.78*} \tabularnewline
+Yangtze & \textbf{.28*} & -.08 & \textbf{-.24} & \textbf{1*} & \textbf{.62*} & \textbf{.32*} & \textbf{.62*}/\textbf{.62*} & -.11 \tabularnewline
+Oceanic Ni\~no Index & .11 & .26 & .17 & .15 & .11 & -.02 & .17/-.11 & .25 \tabularnewline
+\end{tabularx}
+\end{center}
+
+\end{table}
+\efloatseparator
+ 

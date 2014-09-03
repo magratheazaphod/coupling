@@ -1,0 +1,73 @@
+\begin{figure}[t]
+  \noindent\includegraphics[width=36pc,angle=0]{fig1precipandtopo}\\
+  \caption{July-August mean precipitation from APHRODITE (units of mm day$^{-1}$, 1951-2007) plotted with a log base 2 color scale. Topography contours are at 700 and 3000 meters (light and thick contour respectively). No data are available over water (deep blue shading) since APHRODITE is a composite of station data.}\label{f1}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[t]
+  \noindent\includegraphics[width=36pc,angle=0]{fig2regions}\\
+  \caption{Mean station coverage STN in APHRODITE (1951-2007), with the 6 regions (Himalayan Foothills, ``Monsoon Zone,'' South India, South China, Yangtze Corridor and North China) and 22 reference points (stars) used in correlations and agreement maps.}\label{f2}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[t]
+  \noindent\includegraphics[width=36pc,angle=0]{fig3correl}\\
+  \caption{Correlation coefficient $r$ between normalized anomaly precipitation $P''$ at each of the 22 reference points for July-August (JA, upper-left) and May-October (MJJASO, bottom-right). Confidence levels above 95\% and 99\% are indicated by single and double diagonal hashes respectively. July-August - 95\% : $r >.184$, 99\% : $r >.240$; May-October - 95 \% : $r>.106$, 99\% : $r >.139$. Region-to-region correlations reproduce point-to-point results closely (not shown).}\label{f3}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[t]
+  \noindent\includegraphics[width=36pc,angle=0]{fig4agreement}\\
+  \caption{Agreement map $A(x,y)$ of anomalies predicted by all 22 reference points, using method described in text, with 700 meter and 3000 meter topography isolines superimposed.}\label{f4}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[t]
+  \noindent\includegraphics[width=32pc,angle=0]{fig5eof_allasia}\\
+  \caption{Leading July-August spatial and temporal EOFs of normalized anomaly precipitation $P''$ for the region 64E-142E and 5N-45N (All-Asia) with .5\textdegree\ $\times$ .5\textdegree\ resolution and percentage of variance listed alongside. July (white shading) and August (gray shading) value of temporal EOF are shown separately. Time series are normalized to unit variance ($\sigma=1$). Linear best fit lines are superimposed on all time series (dashed line). Trends - EOF 1: .014 yr$^{-1}$ EOF 2: .032 yr$^{-1}$ EOF 3: -.012 yr$^{-1}$ EOF4: -.019 yr$^{-1}$. The trend in EOF 2 surpasses a confidence level of 95\% according to a permutation test, but no other trend is statistically significant.}\label{f5}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[t]
+  \noindent\includegraphics[width=36pc,angle=0]{fig6eof_monthly}\\
+  \caption{EOF 1 of normalized anomaly precipitation computed separately for June, July, August and September (units of standard deviation) for the region 68E-140E and 5-45N with .5\textdegree\ $\times$ .5\textdegree\ resolution and percentage of variance listed alongside.}\label{f6}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[t]
+  \noindent\includegraphics[width=30pc,angle=0]{fig7eof_region}\\
+  \caption{Leading EOFs of July-August normalized anomaly precipitation for India (71E-95E and 10N-30N) and China (100E-123E and 20N-40N) with .25\textdegree\ $\times$ .25
+  textdegree\ resolution and percentage of variance listed alongside. July (white shading) and August (gray shading) are both shown. Time series are normalized to unit variance ($\sigma=1$). Linear best fit lines are superimposed on all time series (dashed line). Trends - India EOF 1: .019 yr$^{-1}$ China EOF 1: .014 yr$^{-1}$ EOF 2: .022 yr$^{-1}$. No trend is statistically significant at a 95\% level.}\label{f7}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[t]
+  \noindent\includegraphics[width=36pc,angle=0]{fig8allnepal}\\
+  \caption{Index of July-August All-Nepal monsoon rainfall (gray bars, normalized such that $\sigma= 1$ for 1961-2007) with total number of Nepal stations (red line) and normalized All-India monsoon rainfall (dashed blue line) superimposed. One value is listed per year, obtained by first summing July and August precipitation. Black dotted line marks 1960, after which station coverage in Nepal improves sharply and the use of the All-Nepal index is recommended.}\label{f8}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[t]
+  \noindent\includegraphics[width=42pc,angle=0]{fig9laglead}\\
+  \caption{July-August $K_i^\lambda$ (57-year mean of $C_i^\lambda$) given a reference point $(x_i,y_i)$, defined as anomalous correlation of precipitation anomalies relative to background field with a lag or lead of $\lambda$ days. Variance circles are drawn to include at least 50\% of yearly $C_i^\lambda$ out of all 57 years for each reference point and $\lambda$.}\label{f9}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[t]
+  \noindent\includegraphics[width=32pc,angle=0]{fig10kmax}\\
+  \caption{July-August plot of the day $\lambda$ for which $C_i^\lambda(x,y)$ is maximized at each point. Variance circles from Figure 9 are superimposed for the selection of $\lambda$ listed above each figure.}\label{f10}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[t]
+  \noindent\includegraphics[width=36pc,angle=0]{fig11u200}\\
+  \caption{July-August streamlines of mean 200 mb-level winds from NCEP reanalysis (a) and LMDZ (b). Figures c and d are NCEP reanalysis 200 mb-level wind for composites of ``wet'' years (c) and ``dry'' years (d). The ``wet'' composite includes the five years with the most positive value of All-Asia EOF1, while the ``dry'' composite is the equivalent with the five most negative years.}\label{f11}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[t]
+  \noindent\includegraphics[width=36pc,angle=0]{fig12lmdz}\\
+  \caption{Near-surface moist static energy $h_b$ (shading) and column-integrated moisture transport $\overline{q}\overline{u}$\textendash $\overline{qv}$ (vectors) from June to September in LMDZ for the region 65E-110E and 5N-35N. Moist static energy is given by the formula $h_b=c_pT+L_vq+gz$, with specific heat of dry air $c_p$ and latent heat of condensation of water $L_v$ given in main text. Units of moist static energy are Kelvin, obtained by dividing $h_b$ by $c_p$ as practiced in \cite{Boos2013a}. Column-integrated moisture vapor is given by $\overline{qu}=\frac{1}{g}\int q\vec{u}\ \mathrm{d}p $. Note unusual y-axis used to emphasize changes over continental India.}\label{f12}
+\end{figure}
+\efloatseparator
+ 

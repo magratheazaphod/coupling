@@ -1,0 +1,508 @@
+\begin{thebibliography}{91}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Aksoy(2000)}]{Aksoy1999}
+Aksoy, H., 2000: {Use of Gamma Distribution in Hydrological Analysis}.
+  \textit{Turkish J. Eng. Environ. Sci.}, \textbf{24}, 419--428.
+
+\bibitem[{Annamalai and Slingo(2001)}]{Annamalai2001}
+Annamalai, H. and J.~Slingo, 2001: {Active/break cycles: Diagnosis of the
+  intraseasonal variability of the Asian summer monsoon}. \textit{Clim. Dyn.},
+  \textbf{18}, 85--102.
+
+\bibitem[{Barnes and Hartmann(2012)}]{Barnes2012}
+Barnes, E. and D.~Hartmann, 2012: {The global distribution of atmospheric
+  eddy-length scales}. \textit{J. Climate}, \textbf{25}, 3409--3416.
+
+\bibitem[{Bhat et~al.(2004)Bhat, Vecchi, and Gadgil}]{Bhat2004}
+Bhat, G.~S., G.~A. Vecchi, and S.~Gadgil, 2004: {Sea surface temperature of the
+  Bay of Bengal derived from the TRMM Microwave Imager}. \textit{J. Atmos.
+  Ocean. Technol.}, \textbf{21}, 1283--1290.
+
+\bibitem[{Boos and Hurley(2013)}]{Boos2013a}
+Boos, W.~R. and J.~V. Hurley, 2013: {Thermodynamic Bias in the Multimodel Mean
+  Boreal Summer Monsoon}. \textit{J. Climate}, \textbf{26}, 2279--2287,
+  \doi{10.1175/JCLI-D-12-00493.1}.
+
+\bibitem[{Boos and Kuang(2010)}]{Boos2010}
+Boos, W.~R. and Z.~Kuang, 2010: {Dominant control of the South Asian monsoon by
+  orographic insulation versus plateau heating}. \textit{Nature}, \textbf{463},
+  218--222, \doi{10.1038/nature08707}.
+
+\bibitem[{Boos and Kuang(2013)}]{Boos2013}
+Boos, W.~R. and Z.~Kuang, 2013: {Sensitivity of the South Asian monsoon to
+  elevated and non-elevated heating}. \textit{Sci. Rep.}, \textbf{3}, 1192,
+  \doi{10.1038/srep01192}.
+
+\bibitem[{Bordoni and Schneider(2008)}]{Bordoni2008}
+Bordoni, S. and T.~Schneider, 2008: {Monsoons as eddy-mediated regime
+  transitions of the tropical overturning circulation}. \textit{Nat. Geosci.},
+  \textbf{1}, 515--519, \doi{10.1038/ngeo248}.
+
+\bibitem[{Cai et~al.(2012)}]{Cai2012}
+Cai, Y., et~al., 2012: {The Holocene Indian monsoon variability over the
+  southern Tibetan Plateau and its teleconnections}. \textit{Earth Planet. Sci.
+  Lett.}, \textbf{335-336}, 135--144, \doi{10.1016/j.epsl.2012.04.035}.
+
+\bibitem[{Cao et~al.(2014)Cao, Yao, Wang, and Liu}]{Cao2014}
+Cao, J., P.~Yao, L.~Wang, and K.~Liu, 2014: {Summer Rainfall Variability in
+  Low-Latitude Highlands of China and Subtropical Indian Ocean Dipole}.
+  \textit{J. Climate}, \textbf{27}, 880--892, \doi{10.1175/JCLI-D-13-00121.1}.
+
+\bibitem[{Chelton and Davis(1982)}]{Chelton1982}
+Chelton, D. and R.~Davis, 1982: {Monthly Mean Sea-Level Variability Along the
+  West Coast of North America}. \textit{J. Phys. Oceanogr.}, \textbf{12},
+  757--784.
+
+\bibitem[{Chen and Bordoni(2014{\natexlab{a}})}]{Chen2014b}
+Chen, J. and S.~Bordoni, 2014{\natexlab{a}}: {Intermodel spread of East Asian
+  summer monsoon simulations in CMIP5}. \textit{J. Geophys. Res. Atmos.},
+  \textbf{41}, 1314--1321.
+
+\bibitem[{Chen and Bordoni(2014{\natexlab{b}})}]{Chen2014}
+Chen, J. and S.~Bordoni, 2014{\natexlab{b}}: {Orographic Effects of the Tibetan
+  Plateau on the East Asian Summer Monsoon: An Energetic Perspective}.
+  \textit{J. Climate}, \textbf{27}, 3052--3072,
+  \doi{10.1175/JCLI-D-13-00479.1}.
+
+\bibitem[{Chen and Chen(1993)}]{Chen1993}
+Chen, T.-C. and J.-M. Chen, 1993: {The 10-20-Day Mode of the 1979 Indian
+  Monsoon: Its Relation with the Time Variation of Monsoon Rainfall}.
+  \textit{Mon. Weather Rev.}, \textbf{121}, 2465--2482.
+
+\bibitem[{Chen and Weng(1999)}]{Chen1999}
+Chen, T.-C. and S.-P. Weng, 1999: {Interannual and intraseasonal variations in
+  monsoon depressions and their westward-propagating predecessors}.
+  \textit{Mon. Weather Rev.}, \textbf{127}, 1005--1020.
+
+\bibitem[{Christensen et~al.(2011)}]{Christensen2011}
+Christensen, J.~H., et~al., 2011: {Climate Phenomena and their Relevance for
+  Future Regional Climate Change}. \textit{Climate Change 2013: The Physical
+  Science Basis. Contribution of Working Group I to the Fifth Assessment Report
+  of the Intergovernmental Panel on Climate Change}, T.~F. Stocker, D.~Qin,
+  G.-K. Plattner, M.~Tignor, S.~K. Allen, J.~Boschung, A.~Nauels, Y.~Xia,
+  V.~Bex, and P.~M. Midgley, Eds., Cambridge University Press, Cambridge,
+  United Kingdom and New York, NY, USA.
+
+\bibitem[{Dai et~al.(1997)Dai, Fung, and {Del Genio}}]{Dai1997}
+Dai, A., I.~Y. Fung, and A.~D. {Del Genio}, 1997: {Surface observed global land
+  precipitation variations during 1900-88}. \textit{J. Climate}, \textbf{10},
+  2943--2962.
+
+\bibitem[{Ding and Chan(2005)}]{Ding2005}
+Ding, Y. and J.~C.~L. Chan, 2005: {The East Asian summer monsoon: an overview}.
+  \textit{Meteorol. Atmos. Phys.}, \textbf{89}, 117--142,
+  \doi{10.1007/s00703-005-0125-z}.
+
+\bibitem[{Ding et~al.(2008)Ding, Wang, and Sun}]{Ding2008}
+Ding, Y., Z.~Wang, and Y.~Sun, 2008: {Inter-decadal variation of the summer
+  precipitation in East China and its association with decreasing Asian summer
+  monsoon. Part I: Observed evidences}. \textit{Int. J. Climatol.},
+  \textbf{28}, 1139--1161, \doi{10.1002/joc}.
+
+\bibitem[{Eagle et~al.(2013)Eagle, Risi, Mitchell, Eiler, Seibt, Neelin, Li,
+  and Tripati}]{Eagle2013}
+Eagle, R.~A., C.~Risi, J.~L. Mitchell, J.~M. Eiler, U.~Seibt, J.~D. Neelin,
+  G.~Li, and A.~K. Tripati, 2013: {High regional climate sensitivity over
+  continental China constrained by glacial-recent changes in temperature and
+  the hydrological cycle}. \textit{Proc. Natl. Acad. Sci. U. S. A.},
+  \textbf{110}, 8813--8, \doi{10.1073/pnas.1213366110}.
+
+\bibitem[{Emanuel(1995)}]{Emanuel1995}
+Emanuel, K., 1995: {On Thermally Direct Circulations in Moist Atmospheres}.
+  \textit{J. Atmos. Sci.}, \textbf{52}, 1529--1534.
+
+\bibitem[{Feng and Zhou(2012)}]{Feng2012}
+Feng, L. and T.~Zhou, 2012: {Water vapor transport for summer precipitation
+  over the Tibetan Plateau: Multidata set analysis}. \textit{J. Geophys. Res.},
+  \textbf{117}, D20\,114, \doi{10.1029/2011JD017012}.
+
+\bibitem[{Gadgil(2003)}]{Gadgil2003}
+Gadgil, S., 2003: {The Indian Monsoon and its Variability}. \textit{Annu. Rev.
+  Earth Planet. Sci.}, \textbf{31}, 429--467,
+  \doi{10.1146/annurev.earth.31.100901.141251}.
+
+\bibitem[{Gao et~al.(2013)Gao, Masson-Delmotte, Risi, He, and Yao}]{Gao2013}
+Gao, J., V.~Masson-Delmotte, C.~Risi, Y.~He, and T.~Yao, 2013: {What controls
+  precipitation $\delta^{18}$O in the southern Tibetan Plateau at seasonal and
+  intra-seasonal scales? A case study at Lhasa and Nyalam}. \textit{Tellus B},
+  \textbf{65}, 21\,043.
+
+\bibitem[{Gao et~al.(2011)Gao, Masson-Delmotte, Yao, Tian, Risi, and
+  Hoffmann}]{Gao2011}
+Gao, J., V.~Masson-Delmotte, T.~Yao, L.~Tian, C.~Risi, and G.~Hoffmann, 2011:
+  {Precipitation Water Stable Isotopes in the South Tibetan Plateau:
+  Observations and Modeling}. \textit{J. Climate}, \textbf{24}, 3161--3178,
+  \doi{10.1175/2010JCLI3736.1}.
+
+\bibitem[{Gao and Liu(2013)}]{Gao2013a}
+Gao, Y.~C. and M.~F. Liu, 2013: {Evaluation of high-resolution satellite
+  precipitation products using rain gauge observations over the Tibetan
+  Plateau}. \textit{Hydrol. Earth Syst. Sci.}, \textbf{17}, 837--849,
+  \doi{10.5194/hess-17-837-2013}.
+
+\bibitem[{Gleeson et~al.(2012)Gleeson, Wada, Bierkens, and van
+  Beek}]{Gleeson2012}
+Gleeson, T., Y.~Wada, M.~F.~P. Bierkens, and L.~P.~H. van Beek, 2012: {Water
+  balance of global aquifers revealed by groundwater footprint}.
+  \textit{Nature}, \textbf{488}, 197--200, \doi{10.1038/nature11295}.
+
+\bibitem[{Gong and Ho(2002)}]{Gong2002}
+Gong, D.-Y. and C.-H. Ho, 2002: {Shift in the summer rainfall over the Yangtze
+  River valley in the late 1970s}. \textit{Geophys. Res. Lett.}, \textbf{29},
+  1436.
+
+\bibitem[{Halley(1686)}]{Halley1686}
+Halley, E., 1686: {An Historical Account of the Trade Winds, and Monsoons,
+  Observable in the Seas between and Near the Tropicks, with an Attempt to
+  Assign the Phisical Cause of the Said Winds}. \textit{Philos. Trans. R. Soc.
+  London}, \textbf{16}, 153--168, \doi{10.1098/rstl.1686.0026}.
+
+\bibitem[{Han et~al.(2006)Han, Liu, and Lin}]{Han2006}
+Han, W., W.~T. Liu, and J.~Lin, 2006: {Impact of atmospheric submonthly
+  oscillations on sea surface temperature of the tropical Indian Ocean}.
+  \textit{Geophys. Res. Lett.}, \textbf{33}, L03\,609,
+  \doi{10.1029/2005GL025082}.
+
+\bibitem[{Hansen and Lebedeff(1987)}]{Hansen1987}
+Hansen, J. and S.~Lebedeff, 1987: {Global trends of measured surface air
+  temperature}. \textit{J. Geophys. Res.}, \textbf{92}, 13\,345--13\,372.
+
+\bibitem[{Hoerling et~al.(1997)Hoerling, Kumar, and Zhong}]{Hoerling1997}
+Hoerling, M., A.~Kumar, and M.~Zhong, 1997: {El Nino, La Nina, and the
+  Nonlinearity of Their Teleconnections}. \textit{J. Climate}, \textbf{10},
+  1769--1786.
+
+\bibitem[{Holton(2004)}]{Holton2004}
+Holton, J.~R., 2004: \textit{{An Introduction to Dynamic Meteorology}}.
+  Academic Press, 86--115 pp.
+
+\bibitem[{Hourdin et~al.(2006)}]{Hourdin2006}
+Hourdin, F., et~al., 2006: {The LMDZ4 general circulation model: climate
+  performance and sensitivity to parametrized physics with emphasis on tropical
+  convection}. \textit{Clim. Dyn.}, \textbf{27}, 787--813.
+
+\bibitem[{Hourdin et~al.(2012)}]{Hourdin2012}
+Hourdin, F., et~al., 2012: {LMDZ5B: the atmospheric component of the IPSL
+  climate model with revisited parameterizations for clouds and convection}.
+  \textit{Clim. Dyn.}, \textbf{40}, 2193--2222,
+  \doi{10.1007/s00382-012-1343-y}.
+
+\bibitem[{Hurley and Boos(2013)}]{Hurley2013}
+Hurley, J.~V. and W.~R. Boos, 2013: {Interannual variability of monsoon
+  precipitation and subcloud equivalent potential temperature}. \textit{J.
+  Climate}, \textbf{26}, 9507--9527.
+
+\bibitem[{Iguchi et~al.(2009)Iguchi, Kozu, Kwiatkowski, Meneghini, Awaka, and
+  Okamoto}]{Iguchi2009}
+Iguchi, T., T.~Kozu, J.~Kwiatkowski, R.~Meneghini, J.~Awaka, and K.~Okamoto,
+  2009: {Uncertainties in the Rain Profiling Algorithm for the TRMM
+  Precipitation Radar}. \textit{J. Meteorol. Soc. Japan}, \textbf{87A}, 1--30,
+  \doi{10.2151/jmsj.87A.1}.
+
+\bibitem[{Kaiser(1958)}]{Kaiser1958}
+Kaiser, H.~F., 1958: {The Varimax Criterion for Analytic Rotation in Factor
+  Analysis}. \textit{Psychometrika}, \textbf{23}, 187--200.
+
+\bibitem[{Kansakar et~al.(2004)Kansakar, Hannah, Gerrard, and
+  Rees}]{Kansakar2004}
+Kansakar, S.~R., D.~M. Hannah, J.~Gerrard, and G.~Rees, 2004: {Spatial pattern
+  in the precipitation regime of Nepal}. \textit{Int. J. Climatol.},
+  \textbf{24}, 1645--1659, \doi{10.1002/joc.1098}.
+
+\bibitem[{Kennedy et~al.(2011{\natexlab{a}})Kennedy, Rayner, Smith, Parker, and
+  Saunby}]{Kennedy2011a}
+Kennedy, J.~J., N.~A. Rayner, R.~O. Smith, D.~E. Parker, and M.~Saunby,
+  2011{\natexlab{a}}: {Reassessing biases and other uncertainties in sea
+  surface temperature observations measured in situ since 1850: 1. Measurement
+  and sampling}. \textit{J. Geophys. Res.}, \textbf{116}, D14\,103.
+
+\bibitem[{Kennedy et~al.(2011{\natexlab{b}})Kennedy, Rayner, Smith, Parker, and
+  Saunby}]{Kennedy2011}
+Kennedy, J.~J., N.~A. Rayner, R.~O. Smith, D.~E. Parker, and M.~Saunby,
+  2011{\natexlab{b}}: {Reassessing biases and other uncertainties in sea
+  surface temperature observations measured in situ since 1850: 2. Biases and
+  homogenization}. \textit{J. Geophys. Res.}, \textbf{116}, D14\,104.
+
+\bibitem[{Kosaka et~al.(2012)Kosaka, Chowdary, Xie, Min, and Lee}]{Kosaka2012}
+Kosaka, Y., J.~S. Chowdary, S.-P. Xie, Y.-M. Min, and J.-Y. Lee, 2012:
+  {Limitations of Seasonal Predictability for Summer Climate over East Asia and
+  the Northwestern Pacific}. \textit{J. Climate}, \textbf{25}, 7574--7589,
+  \doi{10.1175/JCLI-D-12-00009.1}.
+
+\bibitem[{Kosaka et~al.(2011)Kosaka, Xie, and Nakamura}]{Kosaka2011}
+Kosaka, Y., S.-P. Xie, and H.~Nakamura, 2011: {Dynamics of Interannual
+  Variability in Summer Precipitation over East Asia}. \textit{J. Climate},
+  \textbf{24}, 5435--5453, \doi{10.1175/2011JCLI4099.1}.
+
+\bibitem[{Krishnamurthy and Shukla(2000)}]{Krishnamurthy2000}
+Krishnamurthy, V. and J.~Shukla, 2000: {Intraseasonal and Interannual
+  Variability of Rainfall over India}. \textit{J. Climate}, \textbf{13},
+  4366--4377.
+
+\bibitem[{Kumar et~al.(2006)Kumar, Rajagopalan, Hoerling, Bates, and
+  Cane}]{Kumar2006}
+Kumar, K.~K., B.~Rajagopalan, M.~Hoerling, G.~Bates, and M.~Cane, 2006:
+  {Unraveling the mystery of Indian monsoon failure during El Ni\~{n}o}.
+  \textit{Science}, \textbf{314}, 115--119, \doi{10.1126/science.1131152}.
+
+\bibitem[{Lee et~al.(2012)Lee, Risi, Fung, Worden, Scheepmaker, Lintner, and
+  Frankenberg}]{Lee2012}
+Lee, J.-E., C.~Risi, I.~Y. Fung, J.~Worden, R.~A. Scheepmaker, B.~Lintner, and
+  C.~Frankenberg, 2012: {Asian monsoon hydrometeorology from TES and SCIAMACHY
+  water vapor isotope measurements and LMDZ simulations: Implications for
+  speleothem climate record interpretation}. \textit{J. Geophys. Res.},
+  \textbf{117}, D15\,112, \doi{10.1029/2011JD017133}.
+
+\bibitem[{Lei et~al.(2014)Lei, Hoskins, and Slingo}]{Lei2014}
+Lei, Y., B.~Hoskins, and J.~Slingo, 2014: {Natural variability of summer
+  rainfall over China in HadCM3}. \textit{Clim. Dyn.}, \textbf{42}, 417--432,
+  \doi{10.1007/s00382-013-1726-8}.
+
+\bibitem[{Li and Yanai(1996)}]{Li1996}
+Li, C. and M.~Yanai, 1996: {The Onset and Interannual Variability of the Asian
+  Summer Monsoon in Relation to Land-Sea Thermal Contrast}. \textit{J.
+  Climate}, \textbf{9}, 358--375.
+
+\bibitem[{Li et~al.(2013)Li, Yu, Li, Murty, and Tangang}]{Li2013}
+Li, Z., W.~Yu, T.~Li, V.~S.~N. Murty, and F.~Tangang, 2013: {Bimodal Character
+  of Cyclone Climatology in the Bay of Bengal Modulated by Monsoon Seasonal
+  Cycle}. \textit{J. Climate}, \textbf{26}, 1033--1046,
+  \doi{10.1175/JCLI-D-11-00627.1}.
+
+\bibitem[{Lorenz(1956)}]{Lorenz1956}
+Lorenz, E.~N., 1956: {Empirical orthogonal functions and statistical weather
+  prediction}. Statistical Forecasting Project Sci. Rep. No. 1, Massachusetts
+  Institute of Technology, 49 pp.
+
+\bibitem[{Luo et~al.(2011)Luo, Zhang, Qian, Luo, and Hu}]{Luo2011}
+Luo, Y., R.~Zhang, W.~Qian, Z.~Luo, and X.~Hu, 2011: {Intercomparison of Deep
+  Convection over the Tibetan Plateau-Asian Monsoon Region and Subtropical
+  North America in Boreal Summer Using CloudSat/CALIPSO Data}. \textit{J.
+  Climate}, \textbf{24}, 2164--2177, \doi{10.1175/2010JCLI4032.1}.
+
+\bibitem[{Mantua and Hare(2002)}]{Mantua2002}
+Mantua, N.~J. and S.~R. Hare, 2002: {The Pacific Decadal Oscillation}.
+  \textit{J. Oceanogr.}, \textbf{58}, 35--44.
+
+\bibitem[{Medina et~al.(2010)Medina, Houze, Kumar, and Niyogi}]{Medina2010}
+Medina, S., R.~A. Houze, A.~Kumar, and D.~Niyogi, 2010: {Summer monsoon
+  convection in the Himalayan region: terrain and land cover effects}.
+  \textit{Q. J. R. Meteorol. Soc.}, \textbf{136}, 593--616.
+
+\bibitem[{Molnar et~al.(2010)Molnar, Boos, and Battisti}]{Molnar2010}
+Molnar, P., W.~R. Boos, and D.~S. Battisti, 2010: {Orographic Controls on
+  Climate and Paleoclimate of Asia: Thermal and Mechanical Roles for the
+  Tibetan Plateau}. \textit{Annu. Rev. Earth Planet. Sci.}, \textbf{38},
+  77--102, \doi{10.1146/annurev-earth-040809-152456}.
+
+\bibitem[{Molnar and Emanuel(1999)}]{Molnar1999}
+Molnar, P. and K.~A. Emanuel, 1999: {Temperature Profiles in
+  Radiative-Convective Equilibrium above Surfaces at different heights}.
+  \textit{J. Geophys. Res.}, \textbf{104}, 24\,265--24\,271.
+
+\bibitem[{North et~al.(1982)North, Bell, Cahalan, and Moeng}]{North1982}
+North, G.~R., T.~L. Bell, R.~F. Cahalan, and F.~J. Moeng, 1982: {Sampling
+  Errors in the Estimation of Empirical Orthogonal Functions}. \textit{Mon.
+  Weather Rev.}, \textbf{110}, 699--706.
+
+\bibitem[{Parthasarathy et~al.(1994)Parthasarathy, Munot, and
+  Kothawale}]{Parthasarathy1994}
+Parthasarathy, B., A.~Munot, and D.~Kothawale, 1994: {All-India Monthly and
+  Seasonal Rainfall Series : 1871-1993}. \textit{Theor. Appl. Climatol.},
+  \textbf{224}, 217--224.
+
+\bibitem[{Pausata et~al.(2011)Pausata, Battisti, Nisancioglu, and
+  Bitz}]{Pausata2011}
+Pausata, F. S.~R., D.~S. Battisti, K.~H. Nisancioglu, and C.~M. Bitz, 2011:
+  {Chinese stalagmite $\delta^{18}$O controlled by changes in the Indian
+  monsoon during a simulated Heinrich event}. \textit{Nat. Geosci.},
+  \textbf{4}, 474--480, \doi{10.1038/ngeo1169}.
+
+\bibitem[{Pe\~{n}a Arancibia et~al.(2013)Pe\~{n}a Arancibia, van Dijk,
+  Renzullo, and Mulligan}]{Pena-Arancibia2013}
+Pe\~{n}a Arancibia, J.~L., A.~I. J.~M. van Dijk, L.~J. Renzullo, and
+  M.~Mulligan, 2013: {Evaluation of Precipitation Estimation Accuracy in
+  Reanalyses, Satellite Products, and an Ensemble Method for Regions in
+  Australia and South and East Asia}. \textit{J. Hydrometeor.}, \textbf{14},
+  1323--1333, \doi{10.1175/JHM-D-12-0132.1}.
+
+\bibitem[{Plumb and Hou(1992)}]{Plumb1992}
+Plumb, R.~A. and A.~Y. Hou, 1992: {Response of a Zonally Symmetric Atmosphere
+  to Subtropical Thermal Forcing}. \textit{J. Atmos. Sci.}, \textbf{49},
+  1790--1799.
+
+\bibitem[{Preisendorfer et~al.(1981)Preisendorfer, Zwiers, and
+  Barnett}]{Preisendorfer1981}
+Preisendorfer, R.~W., F.~W. Zwiers, and T.~P. Barnett, 1981: {Foundations of
+  principal component selection rules}. \textit{SIO Ref. Ser.}, \textbf{81-4}.
+
+\bibitem[{Priv\'{e} and Plumb(2007{\natexlab{a}})}]{Prive2007}
+Priv\'{e}, N.~C. and R.~A. Plumb, 2007{\natexlab{a}}: {Monsoon Dynamics with
+  Interactive Forcing. Part I: Axisymmetric Studies}. \textit{J. Atmos. Sci.},
+  \textbf{64}, 1417--1430, \doi{10.1175/JAS3916.1}.
+
+\bibitem[{Priv\'{e} and Plumb(2007{\natexlab{b}})}]{Prive2007a}
+Priv\'{e}, N.~C. and R.~A. Plumb, 2007{\natexlab{b}}: {Monsoon Dynamics with
+  Interactive Forcing. Part II: Impact of Eddies and Asymmetric Geometries}.
+  \textit{J. Atmos. Sci.}, \textbf{64}, 1431--1442, \doi{10.1175/JAS3917.1}.
+
+\bibitem[{Qiu(2013)}]{Qiu2013}
+Qiu, J., 2013: {Monsoon melee}. \textit{Science}, \textbf{340}, 1400--1401.
+
+\bibitem[{Rajeevan et~al.(2006)Rajeevan, Bhate, Kale, and Lal}]{Rajeevan2006}
+Rajeevan, M., J.~Bhate, J.~D. Kale, and B.~Lal, 2006: {High resolution daily
+  gridded rainfall data for the Indian region: Analysis of break and active
+  monsoon spells}. \textit{Curr. Sci.}, \textbf{91}, 296--306.
+
+\bibitem[{Risi et~al.(2010)Risi, Bony, Vimeux, and Jouzel}]{Risi2010}
+Risi, C., S.~Bony, F.~Vimeux, and J.~Jouzel, 2010: {Water-stable isotopes in
+  the LMDZ4 general circulation model: Model evaluation for present-day and
+  past climates and applications to climatic interpretations of tropical
+  isotopic records}. \textit{J. Geophys. Res.}, \textbf{115}, D12\,118,
+  \doi{10.1029/2009JD013255}.
+
+\bibitem[{Romatschke and Houze(2011)}]{Romatschke2011a}
+Romatschke, U. and R.~A. Houze, 2011: {Characteristics of Precipitating
+  Convective Systems in the South Asian Monsoon}. \textit{J. Hydrometeor.},
+  \textbf{12}, 3--26, \doi{10.1175/2010JHM1289.1}.
+
+\bibitem[{Saji et~al.(1999)Saji, Goswami, Vinayachandran, and
+  Yamagata}]{Saji1999}
+Saji, N.~H., B.~N. Goswami, P.~N. Vinayachandran, and T.~Yamagata, 1999: {A
+  dipole mode in the tropical Indian Ocean.} \textit{Nature}, \textbf{401},
+  360--363, \doi{10.1038/43854}.
+
+\bibitem[{Sampe and Xie(2010)}]{Sampe2010}
+Sampe, T. and S.-P. Xie, 2010: {Large-Scale Dynamics of the Meiyu-Baiu
+  Rainband: Environmental Forcing by the Westerly Jet}. \textit{J. Climate},
+  \textbf{23}, 113--134, \doi{10.1175/2009JCLI3128.1}.
+
+\bibitem[{Schiemann et~al.(2009)Schiemann, L\"{u}thi, and
+  Sch\"{a}r}]{Schiemann2009}
+Schiemann, R., D.~L\"{u}thi, and C.~Sch\"{a}r, 2009: {Seasonality and
+  Interannual Variability of the Westerly Jet in the Tibetan Plateau Region}.
+  \textit{J. Climate}, \textbf{22}, 2940--2957, \doi{10.1175/2008JCLI2625.1}.
+
+\bibitem[{Schneider and Bordoni(2008)}]{Schneider2008}
+Schneider, T. and S.~Bordoni, 2008: {Eddy-Mediated Regime Transitions in the
+  Seasonal Cycle of a Hadley Circulation and Implications for Monsoon
+  Dynamics}. \textit{J. Atmos. Sci.}, \textbf{65}, 915--934,
+  \doi{10.1175/2007JAS2415.1}.
+
+\bibitem[{Smith et~al.(2008)Smith, Reynolds, Peterson, and
+  Lawrimore}]{Smith2008}
+Smith, T.~M., R.~W. Reynolds, T.~C. Peterson, and J.~Lawrimore, 2008:
+  {Improvements to NOAA'€™s Historical Merged Land-€“Ocean Surface Temperature
+  Analysis (1880-2006)}. \textit{J. Climate}, \textbf{21}, 2283--2296.
+
+\bibitem[{Song et~al.(2014)Song, Zhou, and Qian}]{Song2014}
+Song, F., T.~Zhou, and Y.~Qian, 2014: {Responses of East Asian summer monsoon
+  to natural and anthropogenic forcings in the 17 latest CMIP5 models}.
+  \textit{Geophys. Res. Lett.}, \textbf{41}, 596--603.
+
+\bibitem[{Vecchi and Harrison(2002)}]{Vecchi2002}
+Vecchi, G. and D.~Harrison, 2002: {Monsoon breaks and subseasonal sea surface
+  temperature variability in the Bay of Bengal}. \textit{J. Climate},
+  \textbf{15}, 1485--1493.
+
+\bibitem[{Wang et~al.(2012)Wang, Chen, Huang, Carbone, and Chang}]{Wang2012a}
+Wang, C.-C., G.~T.-J. Chen, H.-L. Huang, R.~E. Carbone, and S.-W. Chang, 2012:
+  {Synoptic Conditions Associated with Propagating and Nonpropagating
+  Cloud/Rainfall Episodes during the Warm Season over the East Asian
+  Continent}. \textit{Mon. Weather Rev.}, \textbf{140}, 721--747,
+  \doi{10.1175/MWR-D-11-00067.1}.
+
+\bibitem[{Wang and Gillies(2012)}]{Wang2012}
+Wang, S.-Y. and R.~R. Gillies, 2012: {Influence of the Pacific quasi-decadal
+  oscillation on the monsoon precipitation in Nepal}. \textit{Clim. Dyn.},
+  \textbf{40}, 95--107, \doi{10.1007/s00382-012-1376-2}.
+
+\bibitem[{Wilks(2006)}]{Wilks2006}
+Wilks, D.~S., 2006: \textit{{Statistical methods in the atmospheric sciences}}.
+  Academic Press, 463-508 pp.
+
+\bibitem[{Wu et~al.(2012)Wu, Liu, He, Bao, Duan, and Jin}]{Wu2012}
+Wu, G., Y.~Liu, B.~He, Q.~Bao, A.~Duan, and F.-F. Jin, 2012: {Thermal controls
+  on the Asian summer monsoon.} \textit{Sci. Rep.}, \textbf{2}, 404,
+  \doi{10.1038/srep00404}.
+
+\bibitem[{Wu et~al.(2007)}]{Wu2007}
+Wu, G., et~al., 2007: {The Influence of Mechanical and Thermal Forcing by the
+  Tibetan Plateau on Asian Climate}. \textit{J. Hydrometeor.}, \textbf{8},
+  770--789, \doi{10.1175/JHM609.1}.
+
+\bibitem[{Wu et~al.(2014)Wu, Zhang, Xiaoyan, Li, and Huang}]{Wu2014}
+Wu, H., X.~Zhang, L.~Xiaoyan, G.~Li, and Y.~Huang, 2014: {Seasonal variations
+  of deuterium and oxygen-18 isotopes and their response to moisture source for
+  precipitation events in the subtropical monsoon region}. \textit{Hydrol.
+  Process.}, n/a--n/a, \doi{10.1002/hyp.10132}.
+
+\bibitem[{Xie et~al.(2009)Xie, Hu, Hafner, Tokinaga, Du, Huang, and
+  Sampe}]{Xie2009}
+Xie, S.-P., K.~Hu, J.~Hafner, H.~Tokinaga, Y.~Du, G.~Huang, and T.~Sampe, 2009:
+  {Indian Ocean Capacitor Effect on Indo€-Western Pacific Climate during the
+  Summer following El Ni\~{n}o}. \textit{J. Climate}, \textbf{22}, 730--747.
+
+\bibitem[{Xie et~al.(2006)Xie, Xu, Saji, Wang, and Liu}]{Xie2006}
+Xie, S.-P., H.~Xu, N.~H. Saji, Y.~Wang, and W.~T. Liu, 2006: {Role of Narrow
+  Mountains in Large-Scale Organization of Asian Monsoon Convection}.
+  \textit{J. Climate}, \textbf{19}, 3420--3429.
+
+\bibitem[{Xu and Zipser(2011)}]{Xu2011}
+Xu, W. and E.~J. Zipser, 2011: {Diurnal Variations of Precipitation, Deep
+  Convection, and Lightning over and East of the Eastern Tibetan Plateau}.
+  \textit{J. Climate}, \textbf{24}, 448--465, \doi{10.1175/2010JCLI3719.1}.
+
+\bibitem[{Yang et~al.(2011{\natexlab{a}})Yang, Xu, Yang, and Qu}]{Yang2011}
+Yang, X., B.~Xu, W.~Yang, and D.~Qu, 2011{\natexlab{a}}: {The Indian monsoonal
+  influence on altitude effect of $\delta^{18}$O in surface water on southeast
+  Tibetan Plateau}. \textit{Sci. China Earth Sci.}, \textbf{55}, 438--445.
+
+\bibitem[{Yang et~al.(2011{\natexlab{b}})Yang, Yao, Yang, Yu, and
+  Qu}]{Yang2011a}
+Yang, X., T.~Yao, W.~Yang, W.~Yu, and D.~Qu, 2011{\natexlab{b}}: {Co-existence
+  of temperature and amount effects on precipitation $\delta^{18}$O in the
+  Asian monsoon region}. \textit{Geophys. Res. Lett.}, \textbf{38}, L21\,809,
+  \doi{10.1029/2011GL049353}.
+
+\bibitem[{Yao et~al.(2009)Yao, Zhou, and Yang}]{Yao2009}
+Yao, T., H.~Zhou, and X.~Yang, 2009: {Indian monsoon influences altitude effect
+  of $\delta^{18}$O in precipitation/river water on the Tibetan Plateau}.
+  \textit{Chinese Sci. Bull.}, \textbf{54}, 2724--2731.
+
+\bibitem[{Yao et~al.(2013)}]{Yao2013}
+Yao, T., et~al., 2013: {A review of climatic controls on $\delta^{18}$O in
+  precipitation over the Tibetan Plateau: observations and simulations}.
+  \textit{Rev. Geophys.}, \textbf{51}, 525--548, \doi{10.1002/rog.20023}.
+
+\bibitem[{Yatagai et~al.(2012)Yatagai, Kamiguchi, Arakawa, Hamada, Yasutomi,
+  and Kitoh}]{Yatagai2012}
+Yatagai, A., K.~Kamiguchi, O.~Arakawa, A.~Hamada, N.~Yasutomi, and A.~Kitoh,
+  2012: {APHRODITE: Constructing a Long-Term Daily Gridded Precipitation
+  Dataset for Asia Based on a Dense Network of Rain Gauges}. \textit{Bull. Am.
+  Meteorol. Soc.}, \textbf{93}, 1401--1415, \doi{10.1175/BAMS-D-11-00122.1}.
+
+\bibitem[{Yeh et~al.(1959)Yeh, Dao, and Li}]{Yeh1959}
+Yeh, T.-C., S.-Y. Dao, and M.-T. Li, 1959: {The Abrupt Change of Circulation
+  over the Northern Hemisphere during June and October}. \textit{The Atmosphere
+  and the Sea in Motion}, B.~Bolin, Ed., Rockefeller Institute Press, 249--267.
+
+\bibitem[{Zhang et~al.(2013)Zhang, Wang, Zhai, Gu, and He}]{Zhang2013}
+Zhang, Y., D.~Wang, P.~Zhai, G.~Gu, and J.~He, 2013: {Spatial Distributions and
+  Seasonal Variations of Tropospheric Water Vapor Content over the Tibetan
+  Plateau}. \textit{J. Climate}, \textbf{26}, 5637--5654.
+
+\bibitem[{Zhao and Yatagai(2013)}]{Zhao2013}
+Zhao, T. and A.~Yatagai, 2013: {Evaluation of TRMM 3B42 product using a new
+  gauge-based analysis of daily precipitation over China}. \textit{Int. J.
+  Climatol.}, n/a--n/a, \doi{10.1002/joc.3872}.
+
+\end{thebibliography}
