@@ -1,4 +1,4 @@
-\begin{thebibliography}{100}
+\begin{thebibliography}{105}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -142,6 +142,19 @@ Fudeyasu, H., S.~Iizuka, and T.~Matsuura, 2006: {Seasonality of
   from typhoons}. \textit{Geophys. Res. Lett.}, \textbf{33}, L10\,809,
   \doi{10.1029/2005GL025380}.
 
+\bibitem[{Fujinami et~al.(2014)Fujinami, Yasunari, and Morimoto}]{Fujinami2014}
+Fujinami, H., T.~Yasunari, and A.~Morimoto, 2014: {Dynamics of distinct
+  intraseasonal oscillation in summer monsoon rainfall over the
+  Meghalaya–Bangladesh–western Myanmar region: covariability between the
+  tropics and mid-latitudes}. \textit{Clim. Dyn.},
+  \doi{10.1007/s00382-013-2040-1}.
+
+\bibitem[{Fujinami et~al.(2011)}]{Fujinami2011}
+Fujinami, H., et~al., 2011: {Characteristic intraseasonal oscillation of
+  rainfall and its effect on interannual variability over Bangladesh during
+  boreal summer}. \textit{Int. J. Climatol.}, \textbf{31}, 1192--1204,
+  \doi{10.1002/joc.2146}.
+
 \bibitem[{Gadgil(2003)}]{Gadgil2003}
 Gadgil, S., 2003: {The Indian Monsoon and its Variability}. \textit{Annu. Rev.
   Earth Planet. Sci.}, \textbf{31}, 429--467,
@@ -264,6 +277,12 @@ Kosaka, Y., S.-P. Xie, and H.~Nakamura, 2011: {Dynamics of Interannual
 Krishnamurthy, V. and J.~Shukla, 2000: {Intraseasonal and Interannual
   Variability of Rainfall over India}. \textit{J. Climate}, \textbf{13},
   4366--4377.
+
+\bibitem[{Krishnamurti and Ardanuy(1980)}]{Krishnamurti1980}
+Krishnamurti, T.~N. and P.~Ardanuy, 1980: {The 10 to 20‐day westward
+  propagating mode and “Breaks in the Monsoons”}. \textit{Tellus},
+  \textbf{32}, 15--26,
+  \urlprefix\url{http://onlinelibrary.wiley.com/doi/10.1111/j.2153-3490.1980.tb01717.x/abstract}.
 
 \bibitem[{Krishnan and Sugi(2001)}]{Krishnan2001}
 Krishnan, R. and M.~Sugi, 2001: {Baiu Rainfall Variability and Associated
@@ -412,6 +431,10 @@ Romatschke, U. and R.~A. Houze, 2011: {Characteristics of Precipitating
   Convective Systems in the South Asian Monsoon}. \textit{J. Hydrometeor.},
   \textbf{12}, 3--26, \doi{10.1175/2010JHM1289.1}.
 
+\bibitem[{Saha et~al.(1981)Saha, Sanders, and Shukla}]{Saha1981}
+Saha, K., F.~Sanders, and J.~Shukla, 1981: {Westward propagating predecessors
+  of monsoon depressions}. \textit{Mon. Weather Rev.}, \textbf{109}, 330--343.
+
 \bibitem[{Saji et~al.(1999)Saji, Goswami, Vinayachandran, and
   Yamagata}]{Saji1999}
 Saji, N.~H., B.~N. Goswami, P.~N. Vinayachandran, and T.~Yamagata, 1999: {A
@@ -530,6 +553,12 @@ Yao, T., H.~Zhou, and X.~Yang, 2009: {Indian monsoon influences altitude effect
 Yao, T., et~al., 2013: {A review of climatic controls on $\delta^{18}$O in
   precipitation over the Tibetan Plateau: observations and simulations}.
   \textit{Rev. Geophys.}, \textbf{51}, 525--548, \doi{10.1002/rog.20023}.
+
+\bibitem[{Yasunari and Miwa(2006)}]{Yasunari2006}
+Yasunari, T. and T.~Miwa, 2006: {Convective cloud systems over the Tibetan
+  Plateau and their impact on meso-scale disturbances in the Meiyu/Baiu frontal
+  zone - a case study in 1998}. \textit{J. Meteorol. Soc. Japan}, \textbf{84},
+  783--803.
 
 \bibitem[{Yatagai et~al.(2012)Yatagai, Kamiguchi, Arakawa, Hamada, Yasutomi,
   and Kitoh}]{Yatagai2012}
