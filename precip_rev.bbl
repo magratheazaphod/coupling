@@ -1,4 +1,4 @@
-\begin{thebibliography}{91}
+\begin{thebibliography}{105}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -25,6 +25,13 @@ Barnes, E. and D.~Hartmann, 2012: {The global distribution of atmospheric
 Bhat, G.~S., G.~A. Vecchi, and S.~Gadgil, 2004: {Sea surface temperature of the
   Bay of Bengal derived from the TRMM Microwave Imager}. \textit{J. Atmos.
   Ocean. Technol.}, \textbf{21}, 1283--1290.
+
+\bibitem[{Biasutti et~al.(2011)Biasutti, Yuter, Burleyson, and
+  Sobel}]{Biasutti2011}
+Biasutti, M., S.~E. Yuter, C.~D. Burleyson, and A.~H. Sobel, 2011: {Very high
+  resolution rainfall patterns measured by TRMM precipitation radar: seasonal
+  and diurnal cycles}. \textit{Clim. Dyn.}, \textbf{39}, 239--258,
+  \doi{10.1007/s00382-011-1146-6}.
 
 \bibitem[{Boos and Hurley(2013)}]{Boos2013a}
 Boos, W.~R. and J.~V. Hurley, 2013: {Thermodynamic Bias in the Multimodel Mean
@@ -71,6 +78,11 @@ Chen, J. and S.~Bordoni, 2014{\natexlab{b}}: {Orographic Effects of the Tibetan
   Plateau on the East Asian Summer Monsoon: An Energetic Perspective}.
   \textit{J. Climate}, \textbf{27}, 3052--3072,
   \doi{10.1175/JCLI-D-13-00479.1}.
+
+\bibitem[{Chen and Dell'Osso(1984)}]{Chen1984}
+Chen, S.-J. and L.~Dell'Osso, 1984: {Numerical Prediction of the Heavy Rainfall
+  Vortex Over Eastern Asia Monsoon Region}. \textit{J. Meteorol. Soc. Japan},
+  \textbf{62}, 730--747.
 
 \bibitem[{Chen and Chen(1993)}]{Chen1993}
 Chen, T.-C. and J.-M. Chen, 1993: {The 10-20-Day Mode of the 1979 Indian
@@ -123,6 +135,25 @@ Emanuel, K., 1995: {On Thermally Direct Circulations in Moist Atmospheres}.
 Feng, L. and T.~Zhou, 2012: {Water vapor transport for summer precipitation
   over the Tibetan Plateau: Multidata set analysis}. \textit{J. Geophys. Res.},
   \textbf{117}, D20\,114, \doi{10.1029/2011JD017012}.
+
+\bibitem[{Fudeyasu et~al.(2006)Fudeyasu, Iizuka, and Matsuura}]{Fudeyasu2006}
+Fudeyasu, H., S.~Iizuka, and T.~Matsuura, 2006: {Seasonality of
+  westward-propagating disturbances over Southeast and south Asia originated
+  from typhoons}. \textit{Geophys. Res. Lett.}, \textbf{33}, L10\,809,
+  \doi{10.1029/2005GL025380}.
+
+\bibitem[{Fujinami et~al.(2014)Fujinami, Yasunari, and Morimoto}]{Fujinami2014}
+Fujinami, H., T.~Yasunari, and A.~Morimoto, 2014: {Dynamics of distinct
+  intraseasonal oscillation in summer monsoon rainfall over the
+  Meghalaya–Bangladesh–western Myanmar region: covariability between the
+  tropics and mid-latitudes}. \textit{Clim. Dyn.},
+  \doi{10.1007/s00382-013-2040-1}.
+
+\bibitem[{Fujinami et~al.(2011)}]{Fujinami2011}
+Fujinami, H., et~al., 2011: {Characteristic intraseasonal oscillation of
+  rainfall and its effect on interannual variability over Bangladesh during
+  boreal summer}. \textit{Int. J. Climatol.}, \textbf{31}, 1192--1204,
+  \doi{10.1002/joc.2146}.
 
 \bibitem[{Gadgil(2003)}]{Gadgil2003}
 Gadgil, S., 2003: {The Indian Monsoon and its Variability}. \textit{Annu. Rev.
@@ -247,11 +278,27 @@ Krishnamurthy, V. and J.~Shukla, 2000: {Intraseasonal and Interannual
   Variability of Rainfall over India}. \textit{J. Climate}, \textbf{13},
   4366--4377.
 
+\bibitem[{Krishnamurti and Ardanuy(1980)}]{Krishnamurti1980}
+Krishnamurti, T.~N. and P.~Ardanuy, 1980: {The 10 to 20‐day westward
+  propagating mode and “Breaks in the Monsoons”}. \textit{Tellus},
+  \textbf{32}, 15--26,
+  \urlprefix\url{http://onlinelibrary.wiley.com/doi/10.1111/j.2153-3490.1980.tb01717.x/abstract}.
+
+\bibitem[{Krishnan and Sugi(2001)}]{Krishnan2001}
+Krishnan, R. and M.~Sugi, 2001: {Baiu Rainfall Variability and Associated
+  Monsoon Teleconnections}. \textit{J. Meteorol. Soc. Japan}, \textbf{79},
+  851--860.
+
 \bibitem[{Kumar et~al.(2006)Kumar, Rajagopalan, Hoerling, Bates, and
   Cane}]{Kumar2006}
 Kumar, K.~K., B.~Rajagopalan, M.~Hoerling, G.~Bates, and M.~Cane, 2006:
   {Unraveling the mystery of Indian monsoon failure during El Ni\~{n}o}.
   \textit{Science}, \textbf{314}, 115--119, \doi{10.1126/science.1131152}.
+
+\bibitem[{Lau et~al.(2000)Lau, Kim, and Yang}]{Lau2000}
+Lau, K., K.~Kim, and S.~Yang, 2000: {Dynamical and boundary forcing
+  characteristics of regional components of the Asian summer monsoon}.
+  \textit{J. Climate}, \textbf{13}, 2461--2482.
 
 \bibitem[{Lee et~al.(2012)Lee, Risi, Fung, Worden, Scheepmaker, Lintner, and
   Frankenberg}]{Lee2012}
@@ -276,6 +323,11 @@ Li, Z., W.~Yu, T.~Li, V.~S.~N. Murty, and F.~Tangang, 2013: {Bimodal Character
   of Cyclone Climatology in the Bay of Bengal Modulated by Monsoon Seasonal
   Cycle}. \textit{J. Climate}, \textbf{26}, 1033--1046,
   \doi{10.1175/JCLI-D-11-00627.1}.
+
+\bibitem[{Liu and Ding(2008)}]{Liu2008}
+Liu, Y. and Y.~Ding, 2008: {Teleconnection between the Indian summer monsoon
+  onset and the Meiyu over the Yangtze River Valley}. \textit{Sci. China Ser. D
+  Earth Sci.}, \textbf{51}, 1021--1035, \doi{10.1007/s11430-008-0073-9}.
 
 \bibitem[{Lorenz(1956)}]{Lorenz1956}
 Lorenz, E.~N., 1956: {Empirical orthogonal functions and statistical weather
@@ -307,6 +359,11 @@ Molnar, P., W.~R. Boos, and D.~S. Battisti, 2010: {Orographic Controls on
 Molnar, P. and K.~A. Emanuel, 1999: {Temperature Profiles in
   Radiative-Convective Equilibrium above Surfaces at different heights}.
   \textit{J. Geophys. Res.}, \textbf{104}, 24\,265--24\,271.
+
+\bibitem[{Murakami and Huang(1984)}]{Murakami1984}
+Murakami, T. and W.-G. Huang, 1984: {Orographic effects of the Tibetan Plateau
+  on the rainfall variations over central China during the 1979 summer}.
+  \textit{J. Meteorol. Soc. Japan}, \textbf{62}, 895--909.
 
 \bibitem[{North et~al.(1982)North, Bell, Cahalan, and Moeng}]{North1982}
 North, G.~R., T.~L. Bell, R.~F. Cahalan, and F.~J. Moeng, 1982: {Sampling
@@ -374,6 +431,10 @@ Romatschke, U. and R.~A. Houze, 2011: {Characteristics of Precipitating
   Convective Systems in the South Asian Monsoon}. \textit{J. Hydrometeor.},
   \textbf{12}, 3--26, \doi{10.1175/2010JHM1289.1}.
 
+\bibitem[{Saha et~al.(1981)Saha, Sanders, and Shukla}]{Saha1981}
+Saha, K., F.~Sanders, and J.~Shukla, 1981: {Westward propagating predecessors
+  of monsoon depressions}. \textit{Mon. Weather Rev.}, \textbf{109}, 330--343.
+
 \bibitem[{Saji et~al.(1999)Saji, Goswami, Vinayachandran, and
   Yamagata}]{Saji1999}
 Saji, N.~H., B.~N. Goswami, P.~N. Vinayachandran, and T.~Yamagata, 1999: {A
@@ -408,10 +469,20 @@ Song, F., T.~Zhou, and Y.~Qian, 2014: {Responses of East Asian summer monsoon
   to natural and anthropogenic forcings in the 17 latest CMIP5 models}.
   \textit{Geophys. Res. Lett.}, \textbf{41}, 596--603.
 
+\bibitem[{Tao and Ding(1981)}]{Tao1981}
+Tao, S.-Y. and Y.-h. Ding, 1981: {Observational evidence of the influence of
+  the Qinghai-Xizang (Tibet) Plateau on the occurrence of heavy rain and severe
+  convective storms in China}. \textit{Bull. Am. Meteorol. Soc.}, \textbf{62},
+  23--30.
+
 \bibitem[{Vecchi and Harrison(2002)}]{Vecchi2002}
 Vecchi, G. and D.~Harrison, 2002: {Monsoon breaks and subseasonal sea surface
   temperature variability in the Bay of Bengal}. \textit{J. Climate},
   \textbf{15}, 1485--1493.
+
+\bibitem[{Wang and LinHo(2002)}]{Wang2002}
+Wang, B. and LinHo, 2002: {Rainy Season of the Asian-Pacific Summer Monsoon}.
+  \textit{J. Climate}, \textbf{15}, 386--398.
 
 \bibitem[{Wang et~al.(2012)Wang, Chen, Huang, Carbone, and Chang}]{Wang2012a}
 Wang, C.-C., G.~T.-J. Chen, H.-L. Huang, R.~E. Carbone, and S.-W. Chang, 2012:
@@ -482,6 +553,12 @@ Yao, T., H.~Zhou, and X.~Yang, 2009: {Indian monsoon influences altitude effect
 Yao, T., et~al., 2013: {A review of climatic controls on $\delta^{18}$O in
   precipitation over the Tibetan Plateau: observations and simulations}.
   \textit{Rev. Geophys.}, \textbf{51}, 525--548, \doi{10.1002/rog.20023}.
+
+\bibitem[{Yasunari and Miwa(2006)}]{Yasunari2006}
+Yasunari, T. and T.~Miwa, 2006: {Convective cloud systems over the Tibetan
+  Plateau and their impact on meso-scale disturbances in the Meiyu/Baiu frontal
+  zone - a case study in 1998}. \textit{J. Meteorol. Soc. Japan}, \textbf{84},
+  783--803.
 
 \bibitem[{Yatagai et~al.(2012)Yatagai, Kamiguchi, Arakawa, Hamada, Yasutomi,
   and Kitoh}]{Yatagai2012}

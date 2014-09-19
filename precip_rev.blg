@@ -4,44 +4,44 @@ The top-level auxiliary file: precip_rev.aux
 The style file: ametsoc.bst
 Database file #1: precip_rev.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 91 entries,
+You've used 105 entries,
             3486 wiz_defined-function locations,
-            1303 strings with 24196 characters,
-and the built_in function-call counts, 108829 in all, are:
-= -- 13328
-> -- 3451
-< -- 41
-+ -- 2056
-- -- 848
-* -- 5823
-:= -- 10561
-add.period$ -- 182
-call.type$ -- 91
-change.case$ -- 726
-chr.to.int$ -- 87
-cite$ -- 91
-duplicate$ -- 11288
-empty$ -- 5485
-format.name$ -- 1166
-if$ -- 22080
+            1387 strings with 27038 characters,
+and the built_in function-call counts, 124356 in all, are:
+= -- 15259
+> -- 3872
+< -- 49
++ -- 2311
+- -- 950
+* -- 6644
+:= -- 12071
+add.period$ -- 210
+call.type$ -- 105
+change.case$ -- 829
+chr.to.int$ -- 101
+cite$ -- 105
+duplicate$ -- 12930
+empty$ -- 6292
+format.name$ -- 1326
+if$ -- 25223
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 1012
-newline$ -- 283
-num.names$ -- 368
-pop$ -- 4604
+missing$ -- 1156
+newline$ -- 325
+num.names$ -- 424
+pop$ -- 5254
 preamble$ -- 1
-purify$ -- 637
+purify$ -- 726
 quote$ -- 0
-skip$ -- 7110
+skip$ -- 8135
 stack$ -- 0
-substring$ -- 5494
-swap$ -- 9612
+substring$ -- 6292
+swap$ -- 10997
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 813
+type$ -- 939
 warning$ -- 0
-while$ -- 524
+while$ -- 604
 width$ -- 0
-write$ -- 1060
+write$ -- 1219
